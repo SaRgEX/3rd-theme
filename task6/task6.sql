@@ -1,0 +1,1 @@
+create index employee_last_name_idx on employee (last_name)
